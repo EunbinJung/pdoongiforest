@@ -1,5 +1,5 @@
 <!-- 📌 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=모여봐요%20프둥이숲&fontSize=90&textColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=Pdoung-i%20Forest&fontSize=90&textColor=ffffff)
 
 <!-- 🏷️ 기술 스택 배지 -->
 <p align="center">
@@ -12,62 +12,80 @@
 
 ---
 
-- 프레임워크 : React  
-- 개발 언어 : TypeScript  
-- 서버 : Supabase  
-- 배포 도구 : Vercel  
-- 디자인 도구 : Figma  
-- 라이브러리 : sweetalert2, react-toastify, react-markdown, react-calendar, @yaireo/tagify  
-- 애니메이션 라이브러리 : GSAP  
-- 외부 API : Daum Postcode, Kakao Map API  
-
-> **프로그래머스 데브코스 수강생 및 수료생**을 위한 신뢰 기반의  
-> **스터디 / 사이드 프로젝트 모집 플랫폼**입니다.
+> A trusted platform for **Programmers DevCourse students & alumni** to form study groups and side projects.
 
 ---
 
-### ✅ [모여봐요 프둥이의 숲 배포 링크](https://gatherinpdoongiforest.vercel.app/)
+### ✅ [Live Demo](https://gatherinpdoongiforest.vercel.app/)
 
 ---
 
-## 👨‍💻 팀원 소개
+## 👨‍💻 Team Members
 
-| 이름 | 역할 |
+| Name | Role |
 |------|------|
-| 문태민 | 👑 팀장 |
-| 황유정 | 🖋️ 서기 |
-| 정은빈 | 팀원 |
-| 최정은 | 팀원 |
-| 김영민 | 팀원 |
+| Taemin Moon | 👑 Team Lead |
+| Yujeong Hwang | 🖋️ Secretary |
+| Eunbin Jung | Team Member |
+| Jeong-eun Choi | Team Member |
+| Youngmin Kim | Team Member |
 
 ---
 
-## 🎯 Project Goal
+## 🏆 Project Goal
 
-> **프로그래머스 데브코스 수강생/수료생**이  
-> 신뢰 기반으로 자유롭게 협업할 수 있는 공간을 제공합니다.
+Provide a collaborative space where DevCourse students/alumni can freely work together, overcoming:
 
-- 수료 후 협업 환경 부족 문제 해소  
-- **개방형 마이페이지**로 실력 차이에서 오는 갈등 최소화  
-- 온라인 커뮤니티 특유의 **낮은 신뢰도** 문제 해결
+- Lack of post-course collaboration opportunities  
+- Conflicts due to skill differences (via open MyPage)  
+- Low trust in online communities
 
 ---
 
-## 🔧 주요 기능
+## 🔧 Tech Stack
 
-### 🏡 메인 페이지
-- 스터디/프로젝트 게시글 검색
-- 프로그래머스 공식 소식 및 알림
+- **Framework**: React  
+- **Language**: TypeScript  
+- **Backend/Server**: Supabase  
+- **Deployment**: Vercel  
+- **Design**: Figma  
+- **Libraries**: sweetalert2, react-toastify, react-markdown, react-calendar, @yaireo/tagify  
+- **Animation**: GSAP  
+- **External APIs**: Daum Postcode, Kakao Map API  
 
-### 🤝 스터디/프로젝트 모집
-- 구인글 작성 및 **미리보기 기능**
-- 실시간 피드백 및 소통 (다른 커뮤니티 불필요)
-- **피어 리뷰** 기능으로 피드백과 신뢰도 확보
+---
 
-### 🙋 마이페이지
-- 관심 분야, 활동 내역, 리뷰 등 **포괄적 유저 정보** 제공
-- **개방형 마이페이지** (개인정보는 선택적 공개 가능)
-- **스크랩 / 활동 기록** 기반 탐색 가능
+## ✨ Key Features
+
+### 🏡 Main Page
+- Search for study/project posts  
+- View DevCourse official updates & notifications  
+
+### 🤝 Study/Project Recruitment
+- Create posts with preview  
+- Real-time peer feedback within the platform  
+- Peer review system to build trust  
+
+### 🙋 MyPage
+- View/update profile info, background image, interests, and social links  
+- Privacy controls: toggle visibility of personal info  
+- Image uploads via **Supabase Storage** with public URLs  
+- Real-time online/offline status using **Supabase Realtime**  
+- Animated peer feedback bar for intuitive visual representation  
+
+---
+
+## 💡 My Contributions
+
+- Developed **MyPage features** (profile management, privacy settings, image upload)  
+- Implemented **real-time online/offline status** with Supabase Realtime  
+- Added **animated peer feedback** for visual clarity  
+- Refactored shared components using **CSS Modules** for cleaner, maintainable code  
+
+---
+
+**Project Duration**: Short-term team project  
+**Role**: Frontend Development & UI/UX Implementation
 
 ---
 
